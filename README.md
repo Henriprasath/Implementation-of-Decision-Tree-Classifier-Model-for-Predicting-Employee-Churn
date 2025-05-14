@@ -75,30 +75,47 @@ dt.predict([[0.5,0.8,9,200,6,0,1,2]])
 
 Data:
 
+![Screenshot 2025-05-14 230043](https://github.com/user-attachments/assets/80546389-2093-45c0-9e53-288918a6afe0)
+
 
 Data Head:
+
+![Screenshot 2025-05-14 230056](https://github.com/user-attachments/assets/e26fa10b-e41e-48db-b663-9daf6e2bb746)
 
 
 Null Dataset:
 
+![Screenshot 2025-05-14 230102](https://github.com/user-attachments/assets/f66bdd6d-820c-4e9b-bc6f-fd21685c111a)
+
 
 Values count in left column:
+
+![Screenshot 2025-05-14 230109](https://github.com/user-attachments/assets/55de5ae0-08a8-4507-8854-b6eeb66aacb8)
 
 
 Dataset transformed head:
 
+![Screenshot 2025-05-14 230124](https://github.com/user-attachments/assets/c3e3ef34-97fb-480c-b60f-59902295cda5)
+
 
 x.head():
+
+![Screenshot 2025-05-14 230138](https://github.com/user-attachments/assets/4b4a2a1f-fd4c-4158-94d8-1a5cd05c5200)
 
 
 y.head():
 
+![Screenshot 2025-05-14 230150](https://github.com/user-attachments/assets/e2cf5a83-c9f4-4826-a05d-23f7646c4e94)
+
 
 Accuracy:
+
+![Screenshot 2025-05-14 230200](https://github.com/user-attachments/assets/a6e146e0-bef2-4487-94b0-7e0cd3769d9e)
 
 
 Data prediction:
 
+![Screenshot 2025-05-14 230213](https://github.com/user-attachments/assets/a397a24f-b843-4b1f-98b9-7573ec094f03)
 
 
 ## Result:
